@@ -5,8 +5,15 @@ This Project is to analyze the music playlist database. You can examine the data
 
 
 #Database and Tools
+
+
+
 Postgre SQL
+
+
 PgAdmin4
+
+
 
 
 Schema- Music Store Database
